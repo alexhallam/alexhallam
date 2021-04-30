@@ -1,7 +1,7 @@
 
 
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexhallam&show_icons=false&theme=vue-dark&show_icons=true&hide=commits,prs&count_private=true)](https://github.com/alexhallam/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexhallam&show_icons=false&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/alexhallam/github-readme-stats)
 <!--
 ### Hi there 👋
 **alexhallam/alexhallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
